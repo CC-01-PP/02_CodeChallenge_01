@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="3XL8WneQgNLZ3YExOgU2" name="Page-1">
+        <mxGraphModel dx="611" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Summe bilden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Ziffer eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Summe ausgaben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Ziffer in Zahlen&lt;br&gt;konvertieren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
